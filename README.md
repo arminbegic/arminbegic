@@ -7,5 +7,5 @@ Most recently, I have been working on:
 
 A while ago, I was working on:
 - An app that serves as a solution for emergency departements to plan staffing requirements and gain insights into patient flow characteristics
-- A conditional generative adversarial network to generate synthetic training examples for an image classifier
+- A conditional Generative Adversarial Network to generate synthetic training examples for an image classifier
 - Utilizing linear state-space models for a dynamic approach to cointegration-based optimal index tracking, and using the methodology to backtest stats arb strategies based on enhanced index tracking 
