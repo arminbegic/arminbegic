@@ -1,11 +1,30 @@
-I am a graduate student in Statistics at ETH Zurich, interested in anything related to Data Science, Machine Learning and Artificial Intelligence. Most of my repositories are private, but feel free to contact me if you catch something you would like to chat about. 
+# About
 
-Most recently, I have been working on:
-- Verifying robustness of neural networks with DeepPoly (deterministic, convex relaxation based verification of ReLU and ReLU6-based architectures)
-- Analyzing which parameters cause catastrophic forgetting in a continual learning framework
-- Building predicitve signal for liquid assets from illiquid asset performance
+I am a graduate student in Statistics at ETH Zurich, working on problems in Data Science, Machine Learning, and Artificial Intelligence. Most of my repositories are private, but feel free to contact me if you would like to discuss any of the work below.
 
-A while ago, I was working on:
-- An app that serves as a solution for emergency departements to plan staffing requirements and gain insights into patient flow characteristics
-- A conditional Generative Adversarial Network to generate synthetic training examples for an image classifier
-- Utilizing linear state-space models for a dynamic approach to cointegration-optimal index tracking, and using the methodology to backtest stats arb strategies based on enhanced index tracking 
+## Current Work
+
+**Neural Network Verification**
+- Verifying robustness of neural networks using DeepPoly, a deterministic convex relaxation-based approach for ReLU and ReLU6-based architectures
+
+**Continual Learning**
+- Analyzing which parameters cause catastrophic forgetting in continual learning frameworks
+
+**Financial Modeling**
+- Building predictive signals for liquid assets from illiquid asset performance
+
+## Previous Projects
+
+**Healthcare Operations**
+- Emergency department staffing optimization app for planning requirements and analyzing patient flow characteristics
+
+**Computer Vision**
+- Conditional Generative Adversarial Network for generating synthetic training examples for image classification
+
+**Quantitative Finance**
+- Linear state-space models for dynamic cointegration-optimal index tracking
+- Backtesting statistical arbitrage strategies based on enhanced index tracking methodology
+
+## Contact
+
+Feel free to reach out if any of these projects are of interest.
