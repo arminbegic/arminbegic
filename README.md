@@ -4,6 +4,9 @@ I am a graduate student in Statistics at ETH Zurich, working on problems in Data
 
 ## Current Work
 
+**Meta Learning and Hierarchical Models**
+- My thesis evolves around the topic of meta learning and hierarchical models. In particular, we try to understand and develop models to deal with grouped data structures.
+
 **Neural Network Verification**
 - Verifying robustness of neural networks using DeepPoly, a deterministic convex relaxation-based approach for ReLU and ReLU6-based architectures
 
