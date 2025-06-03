@@ -13,7 +13,7 @@ I am a graduate student in Statistics at ETH Zurich, working on problems in Data
 **Continual Learning**
 - Analyzing which parameters cause catastrophic forgetting in continual learning frameworks.
 
-**Financial Modeling**
+**Quantitative Finance**
 - Building predictive signals for liquid assets from illiquid asset performance.
 
 ## Previous Projects
